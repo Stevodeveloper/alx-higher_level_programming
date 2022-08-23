@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-high level languages such as python
+HIGH LEVEL PROGRAMMING LANGUAGES LIKE PYTHON
