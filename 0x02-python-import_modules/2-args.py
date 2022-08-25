@@ -3,9 +3,9 @@ if __name__ == "__main__":
 	import sys
 	counter = len(sys.argv)
 	
-	if counter == 1:
+	if counter == 2:
 		print('{} argument:'.format(counter - 1))
-	elif counter == 0:
+	elif counter < 2:
 		print('{} arguments.'.format(counter - 1))
 	else:
 		print('{} arguments:'.format(counter - 1))
